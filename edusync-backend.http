@@ -1,0 +1,6 @@
+@edusync_backend_HostAddress = http://localhost:5268
+
+GET {{edusync_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

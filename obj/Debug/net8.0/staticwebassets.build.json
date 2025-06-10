@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DG3anLiftxVjveRD9uQa2Iuarv/8c2ekLQbrM6vVWcc=",
+  "Source": "edusync-backend",
+  "BasePath": "_content/edusync-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

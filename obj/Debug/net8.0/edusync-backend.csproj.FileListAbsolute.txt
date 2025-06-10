@@ -1,0 +1,339 @@
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\appsettings.Development.json
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\appsettings.json
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\edusync-backend.staticwebassets.endpoints.json
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\edusync-backend.exe
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\edusync-backend.deps.json
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\edusync-backend.runtimeconfig.json
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\edusync-backend.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\edusync-backend.pdb
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Azure.Core.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Azure.Identity.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Humanizer.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.ClientModel.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.CodeDom.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Memory.Data.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Text.Json.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.csproj.AssemblyReference.cache
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.AssemblyInfoInputs.cache
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.AssemblyInfo.cs
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.csproj.CoreCompileInputs.cache
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.MvcApplicationPartsAssemblyInfo.cs
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.MvcApplicationPartsAssemblyInfo.cache
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\scopedcss\bundle\edusync-backend.styles.css
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\staticwebassets\msbuild.edusync-backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\staticwebassets\msbuild.edusync-backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\staticwebassets\msbuild.build.edusync-backend.props
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.edusync-backend.props
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.edusync-backend.props
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-.8CD41342.Up2Date
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\refint\edusync-backend.dll
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.pdb
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.genruntimeconfig.cache
+D:\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\ref\edusync-backend.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\appsettings.Development.json
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\appsettings.json
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\edusync-backend.staticwebassets.endpoints.json
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\edusync-backend.exe
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\edusync-backend.deps.json
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\edusync-backend.runtimeconfig.json
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\edusync-backend.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\edusync-backend.pdb
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Azure.Core.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Azure.Identity.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Humanizer.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.ClientModel.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.CodeDom.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Text.Json.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.csproj.AssemblyReference.cache
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.AssemblyInfoInputs.cache
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.AssemblyInfo.cs
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.csproj.CoreCompileInputs.cache
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\scopedcss\bundle\edusync-backend.styles.css
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-.8CD41342.Up2Date
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\refint\edusync-backend.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.pdb
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.genruntimeconfig.cache
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\ref\edusync-backend.dll
