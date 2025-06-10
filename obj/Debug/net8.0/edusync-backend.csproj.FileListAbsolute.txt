@@ -337,3 +337,4 @@ D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\n
 D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.pdb
 D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.genruntimeconfig.cache
 D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\ref\edusync-backend.dll
+D:\Capg\EduSync (2)\EduSync\edusync-backend-solution\edusync-backend\obj\Debug\net8.0\edusync-backend.sourcelink.json
