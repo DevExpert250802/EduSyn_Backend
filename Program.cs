@@ -18,7 +18,7 @@ builder.Services.AddCors(options =>
     {
         policy.WithOrigins(
             "http://localhost:3000",
-            "https://yellow-bay-02e117200.2.azurestaticapps.net/"
+            "https://yellow-bay-02e117200.2.azurestaticapps.net"
             )
               .AllowAnyMethod()
               .AllowAnyHeader()
