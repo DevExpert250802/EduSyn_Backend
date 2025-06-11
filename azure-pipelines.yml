@@ -1,0 +1,47 @@
+# azure-pipelines-backend.yml
+trigger:
+- main # Or the branch you want to trigger deployments from
+
+pool:
+  vmImage: 'windows-latest' # Matches the Windows App Service OS
+
+variables:
+  buildConfiguration: 'Release'
+  azureAppName: 'EduSyncBackend1' 
+  azureSubscription: 'EduSyncAzureConnection'
+
+steps:
+- task: UseDotNet@2
+  displayName: 'Install .NET 8 SDK'
+  inputs:
+    packageType: 'sdk'
+    version: '8.x' # Ensure this matches your project's .NET version
+
+- task: DotNetCoreCLI@2
+  displayName: 'Restore Dependencies'
+  inputs:
+    command: 'restore'
+    projects: '**/*.csproj'
+
+- task: DotNetCoreCLI@2
+  displayName: 'Build Project'
+  inputs:
+    command: 'build'
+    projects: '**/*.csproj'
+    arguments: '--configuration $(buildConfiguration)'
+
+- task: DotNetCoreCLI@2
+  displayName: 'Publish Project'
+  inputs:
+    command: 'publish'
+    publishWebProjects: true
+    arguments: '--configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
+    zipAfterPublish: true
+
+- task: AzureWebApp@1
+  displayName: 'Deploy to Azure App Service'
+  inputs:
+    azureSubscription: '$(azureSubscription)'
+    appType: 'webApp'
+    appName: 'EduSyncBackend1'
+    package: '$(Build.ArtifactStagingDirectory)/**/*.zip'
